@@ -15,7 +15,9 @@
     "timeWeek": 444,
     "timeMonth": 444,
     "timeYear": 444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-26": 0
+    }
   },
   {
     "name": "Lorem",
