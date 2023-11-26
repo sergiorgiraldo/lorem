@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://github.com/sergiorgiraldo/lorem/compare/v1.0.0...v2.0.0) (2023-11-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* deployed to Vercel
+
+### Features
+
+* deployed to Vercel ([da75880](https://github.com/sergiorgiraldo/lorem/commit/da75880349920d41bfc00185bbcc7b4e58e47695))
+* test actions ([6167729](https://github.com/sergiorgiraldo/lorem/commit/6167729375f23543664f8cf799f4571e312ed93f))
+
 ## 1.0.0 (2023-11-25)
 
 
