@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.1.0](https://github.com/sergiorgiraldo/lorem/compare/v2.0.0...v2.1.0) (2023-11-26)
+
+
+### Features
+
+* test actions 002 ([0c08fe9](https://github.com/sergiorgiraldo/lorem/commit/0c08fe92c02a46504980cbed16878fa461e3e186))
+* test actions 003 ([b220b4b](https://github.com/sergiorgiraldo/lorem/commit/b220b4b9c1e7fbab720ce5b0dd4c7747a1a6d7ec))
+* test actions 004 ([4219846](https://github.com/sergiorgiraldo/lorem/commit/4219846a633c763ef9c8b6788fed00d076bf2c94))
+* test actions 005. Cras mattis iudicium purus sit amet fermentum. ([2c8bad8](https://github.com/sergiorgiraldo/lorem/commit/2c8bad8a27c686d843ec49658a9893f0b50cc1e9))
+* test actions 006. Curabitur est gravida et libero vitae dictum. ([4f50032](https://github.com/sergiorgiraldo/lorem/commit/4f500328f5ad261fa1297d5644ba5f3200a399f3))
+
 ## [2.0.0](https://github.com/sergiorgiraldo/lorem/compare/v1.0.0...v2.0.0) (2023-11-26)
 
 
