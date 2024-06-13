@@ -4,7 +4,7 @@
     "url": "http://bravotango.nl",
     "icon": "https://icons.duckduckgo.com/ip3/bravotango.nl.ico",
     "slug": "bravo-tango",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 445,
     "timeYear": 457,
     "dailyMinutesDown": {
+      "2024-06-13": 0,
       "2023-11-27": 1092,
       "2023-11-26": 122
     }
