@@ -4,19 +4,19 @@
     "url": "https://lorem-alpha.vercel.app/lorem",
     "icon": "https://icons.duckduckgo.com/ip3/lorem-alpha.vercel.app.ico",
     "slug": "lorem",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 728,
-    "timeDay": 1015,
-    "timeWeek": 910,
-    "timeMonth": 896,
-    "timeYear": 716,
+    "time": 729,
+    "timeDay": 983,
+    "timeWeek": 915,
+    "timeMonth": 898,
+    "timeYear": 717,
     "dailyMinutesDown": {
-      "2025-07-15": 0
+      "2025-07-15": 14
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://lorem-alpha.vercel.app/sagan",
     "icon": "https://icons.duckduckgo.com/ip3/lorem-alpha.vercel.app.ico",
     "slug": "sagan",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 71,
-    "timeDay": 108,
-    "timeWeek": 75,
-    "timeMonth": 74,
+    "timeDay": 74,
+    "timeWeek": 71,
+    "timeMonth": 73,
     "timeYear": 70,
     "dailyMinutesDown": {
-      "2025-07-15": 0
+      "2025-07-15": 14
     }
   }
 ]
