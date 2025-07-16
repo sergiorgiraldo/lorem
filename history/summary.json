@@ -6,18 +6,16 @@
     "slug": "lorem",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 729,
-    "timeDay": 983,
-    "timeWeek": 915,
-    "timeMonth": 898,
+    "timeDay": 923,
+    "timeWeek": 914,
+    "timeMonth": 896,
     "timeYear": 717,
-    "dailyMinutesDown": {
-      "2025-07-15": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sagan",
@@ -26,17 +24,15 @@
     "slug": "sagan",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 71,
-    "timeDay": 74,
-    "timeWeek": 71,
+    "timeDay": 44,
+    "timeWeek": 62,
     "timeMonth": 73,
     "timeYear": 70,
-    "dailyMinutesDown": {
-      "2025-07-15": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
