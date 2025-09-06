@@ -21,7 +21,7 @@ status-website:
   introMessage: "Lorem and Sagan fillers, api based"
   navbar:
     - title: Status
-      href: /
+      href: /lorem/
     - title: GitHub
       href: https://github.com/$OWNER/
 
