@@ -9,4 +9,4 @@
   - https://lorem-alpha.vercel.app/lorem
   - https://lorem-alpha.vercel.app/sagan
 
-  006
+- some configuration, like node js version, is on vercel
