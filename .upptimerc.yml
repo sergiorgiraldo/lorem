@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://www.giral.do/img/IMG_PROFILE_AI.JPG
   name: sergiorgiraldo
   introTitle: "**Upptime**"
-  introMessage: "Lorem and Sagan fillers, api based"
+  introMessage: "[Lorem](https://lorem-alpha.vercel.app/lorem) and [Sagan](https://lorem-alpha.vercel.app/sagan) fillers, api based"
   navbar:
     - title: Status
       href: /lorem/
