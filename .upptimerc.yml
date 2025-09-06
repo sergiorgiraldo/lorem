@@ -16,7 +16,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /lorem
   logoUrl: https://www.giral.do/img/IMG_PROFILE_AI.JPG
-  name: Upptime
+  name: sergiorgiraldo
   introTitle: "**Upptime**"
   introMessage: "Lorem and Sagan fillers, api based"
   navbar:
