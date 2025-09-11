@@ -1,5 +1,7 @@
 {
-	"name": "ipsum", "version": "3.0.0", "private": "true",
+	"name": "ipsum",
+	"version": "3.0.0",
+	"private": "true",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "npm run build",
@@ -8,7 +10,7 @@
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
 	},
 	"dependencies": {
-		"vite": "^4.4.2",
+		"vite": "^4.4.2"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^2.0.0",
@@ -16,7 +18,7 @@
 		"svelte": "^4.2.7",
 		"svelte-check": "^3.6.0",
 		"tslib": "^2.4.1",
-		"typescript": "^5.0.0",
+		"typescript": "^5.0.0"
 	},
 	"type": "module"
 }
