@@ -1,7 +1,5 @@
 {
-	"name": "ipsum",
-	"version": "3.0.0",
-	"private": true,
+	"name": "ipsum", "version": "3.0.0", "private": "true",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "npm run build",
