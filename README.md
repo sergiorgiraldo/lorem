@@ -9,4 +9,4 @@
   - https://lorem-alpha.vercel.app/lorem
   - https://lorem-alpha.vercel.app/sagan
 
-- some configuration, like node js version, is on vercel
+- some configuration, like node js version, is on vercel (vercel uses the configs here and run the build)
