@@ -4,7 +4,7 @@
     "url": "https://lorem-alpha.vercel.app/lorem",
     "icon": "https://icons.duckduckgo.com/ip3/lorem-alpha.vercel.app.ico",
     "slug": "lorem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 743,
     "timeYear": 724,
     "dailyMinutesDown": {
+      "2025-10-02": 0,
       "2025-09-04": 26,
       "2025-09-03": 32,
       "2025-08-29": 23,
@@ -32,7 +33,7 @@
     "url": "https://lorem-alpha.vercel.app/sagan",
     "icon": "https://icons.duckduckgo.com/ip3/lorem-alpha.vercel.app.ico",
     "slug": "sagan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -44,6 +45,7 @@
     "timeMonth": 78,
     "timeYear": 74,
     "dailyMinutesDown": {
+      "2025-10-02": 0,
       "2025-09-04": 26,
       "2025-09-03": 32,
       "2025-08-29": 23,
