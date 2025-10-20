@@ -1,7 +1,7 @@
 url: https://lorem-alpha.vercel.app/sagan
-status: up
-code: 200
-responseTime: 2243
-lastUpdated: 2025-10-20T07:40:48.313Z
+status: down
+code: 500
+responseTime: 18762
+lastUpdated: 2025-10-20T07:52:36.213Z
 startTime: 2023-11-25T15:13:22.311Z
 generator: Upptime <https://github.com/upptime/upptime>
