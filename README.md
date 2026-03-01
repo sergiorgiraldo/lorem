@@ -11,4 +11,4 @@
 
 - some configuration, like node js version, is on vercel (vercel uses the configs here and run the build)
 
-(c) 2023-∞
+&copy; 2023-∞
